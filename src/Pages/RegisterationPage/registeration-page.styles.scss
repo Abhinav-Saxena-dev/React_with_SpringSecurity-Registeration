@@ -1,0 +1,16 @@
+.registration-page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+
+    .reg-sign-up{
+        height: 50vh;
+        width: 20vw;
+    }
+
+    .reg-sign-in{
+        height: 50vh;
+        width: 20vw;
+    }
+}
